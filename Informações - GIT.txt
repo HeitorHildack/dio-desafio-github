@@ -1,0 +1,3 @@
+Criar projeto para o hemocentro
+Inserir informações sobre a importância de doar sangue
+Inserir pré-requisitos de doação.
